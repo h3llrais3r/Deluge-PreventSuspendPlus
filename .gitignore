@@ -1,0 +1,10 @@
+# PyCharm IDE files
+.idea
+
+# Compiled files
+*.pyc
+
+# Installation files
+PreventSuspendPlus.egg-info/
+build/
+dist/
