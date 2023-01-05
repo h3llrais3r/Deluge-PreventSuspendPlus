@@ -2,7 +2,7 @@
  * preventsuspendplus.js
  *      The client-side javascript code for the PreventSuspendPlus plugin.
  *
- * Copyright (C) 2015 h3llrais3r <pooh_beer_1@hotmail.com>
+ * Copyright (C) 2015 h3llrais3r <h3llrais3r.github@gmail.com>
  *
  * This file is part of Deluge and is licensed under GNU General Public License 3.0, or later, with
  * the additional special exception to link portions of this program with the OpenSSL library.

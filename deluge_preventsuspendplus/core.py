@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Copyright (C) 2015 h3llrais3r <pooh_beer_1@hotmail.com>
+# Copyright (C) 2015 h3llrais3r <h3llrais3r.github@gmail.com>
 # Copyright (C) 2009 Andrew Resch <andrewresch@gmail.com>
 #
 # Basic plugin template created by:
