@@ -1,5 +1,8 @@
 # PreventSuspendPlus
 
+> [!NOTE]
+> Since I'm no longer using Deluge, this repo will no longer be maintained. Feel free to fork it and adapt it to your needs.
+
 PreventSuspendPlus is a plugin for [Deluge](http://deluge-torrent.org) that you can use to prevent the computer from sleeping while torrents are downloading/seeding.
 It is based on PreventSuspend v0.3 by [Ian Martin](https://github.com/ianmartin/Deluge-PreventSuspend-plugin).
 
